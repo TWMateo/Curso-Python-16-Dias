@@ -1,4 +1,4 @@
-frase = "Cuuuando algo es lo suficientemente importante, lo haces incluso si las probabilidades de que salga bien no te acompañan"
+frase = "Cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades de que salga bien no te acompañan"
 palabra1 = "éxito"
 palabra2 = "tecnología"
 
